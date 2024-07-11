@@ -1,0 +1,10 @@
+ACCESO DE LA BASE DE DATOS
+
+
+DESVENTAJAS (quien da la presentacion no tenia conocimientos solidos)
+
+* acceso remoto
+* no posee interfaz web
+* sistema con recursos limitadoos
+* trabajo de dependencia manual
+* 
