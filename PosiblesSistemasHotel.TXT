@@ -1,0 +1,39 @@
+Softawe a los cuales se solicitaron DEMO
+
+* https://sihot.com/es/pide-una-cita/            ----- SIHOT -----
+
+Apellido
+Nombre
+E-mail
+Empresa
+Sitio Web de la Empresa
+Telefono
+Cant de Habitaciones
+
+https://www.weareplanet.com/es/panel-control       ----- PLANET -----      22/07 12:00 a 12:15
+
+Apellido y Nombre
+Email de trabajo
+Telefono
+Empresa
+Nivel del contacto
+Puesto
+Pais
+Estoy Buscando
+En que necesita Ayuda
+Cuantos empleados tiene la Empresa
+Su consultar
+
+https://roomraccoon.es/demo/       ----- roomraccoon -----        16/07 a las 11:30  --- NO SE PRENSETARON ---
+
+Nombre Apellido
+Email del trabajo
+Nombre del Hotel
+N° de Habitaciones
+Telefono
+Pais
+
+
+https://hotelgest.com/cadenas-hoteleras/       ----- hotelgest -----          30/07 a las 11:15
+
+
